@@ -25,7 +25,6 @@
 
 - [🇸🇦 العربية](../ar-AR/README_AR.md)
 - [🇪🇬 اللغة العامية](../ar-EG/README_ar-EG.md)
-- [🇮🇷 فارسی](./README_fa-IR.md)
 - [🇧🇦 Bosanski](../bs-BS/README-bs_BS.md)
 - [🇩🇪 Deutsch](../de-DE/README.md)
 - [🇪🇸 Español](../es-ES/README-ES.md)
